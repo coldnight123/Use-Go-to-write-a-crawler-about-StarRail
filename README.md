@@ -1,5 +1,8 @@
 <h1>崩坏·星穹铁道爬取人物信息</h1>
 
+<h2>效果展示</h2>
+<img src="picture/img.png" >
+<h2>代码思路</h2>
 <h3>单任务版爬虫思路</h3>
 <img src="picture/img3.png" width="600" height="350">
 <h3>并发版爬虫思路</h3>
